@@ -1,9 +1,5 @@
 # The wild oasis
 
-Here’s a brief description you can use in your `README.md` file:
-
----
-
 ## Project Overview
 
 This project is a **Cabin Booking Dashboard** built with **React.js**. It provides a streamlined interface for managing cabin bookings, guest information, and availability. The dashboard includes features for:
